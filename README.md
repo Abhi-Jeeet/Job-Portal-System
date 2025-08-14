@@ -1,8 +1,8 @@
-# CareerCatcher
+# Job Portal
 
-**CareerCatcher** is a comprehensive **full-stack web application** with **AI** that bridges the gap between recruiters and job seekers. Recruiters can register their companies, post job openings, and manage applications, while job seekers can explore job opportunities, apply directly, and track their application status. The platform offers **secure login and profile management**, **smooth image/file uploads**, and **reliable data storage** with MongoDB.
+**Job Portal** is a comprehensive **full-stack web application** with **AI** that bridges the gap between recruiters and job seekers. Recruiters can register their companies, post job openings, and manage applications, while job seekers can explore job opportunities, apply directly, and track their application status. The platform offers **secure login and profile management**, **smooth image/file uploads**, and **reliable data storage** with MongoDB.
 
-Additionally, CareerCatcher includes **AI-powered features** powered by **Gemini AI**: a **Resume Analyzer** that allows job seekers to upload and analyze their resumes, and a **Cover Letter Generator** that helps create personalized cover letters. The Resume Analyzer provides a comprehensive evaluation with an overall score (out of 10), highlights key strengths, identifies areas for improvement, and offers specific recommendations to enhance the resume's effectiveness. The Cover Letter Generator creates tailored cover letters based on job descriptions and user profiles. New users are granted 3 free analysis attempts for each feature, with the possibility of unlimited credits based on settings.
+Additionally, Job Portal includes **AI-powered features** powered by **Gemini AI**: a **Resume Analyzer** that allows job seekers to upload and analyze their resumes, and a **Cover Letter Generator** that helps create personalized cover letters. The Resume Analyzer provides a comprehensive evaluation with an overall score (out of 10), highlights key strengths, identifies areas for improvement, and offers specific recommendations to enhance the resume's effectiveness. The Cover Letter Generator creates tailored cover letters based on job descriptions and user profiles. New users are granted 3 free analysis attempts for each feature, with the possibility of unlimited credits based on settings.
 
 ## Features
 
